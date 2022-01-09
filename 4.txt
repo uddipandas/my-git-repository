@@ -1,2 +1,3 @@
 Fourth message
 File is modified directly at GitHub
+Another line is added for directly modifying this file at GitHub
