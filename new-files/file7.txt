@@ -1,0 +1,1 @@
+Another file is created in the new-files folder named file7.txt.
