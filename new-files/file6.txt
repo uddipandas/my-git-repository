@@ -1,2 +1,2 @@
 A new file is created for testing purposes.
-This file was modified again in the main branch.
+file6.txt was just changed. This line was changed in the third-branch.
